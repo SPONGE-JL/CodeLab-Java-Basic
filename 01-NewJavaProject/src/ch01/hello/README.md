@@ -1,4 +1,4 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic) / [Go Up](../../)
 
 # Ch01. 자바프로그램 입문
 

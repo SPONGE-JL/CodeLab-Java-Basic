@@ -1,4 +1,4 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic) / [Go Up](../../)
 
 # Ch02. 기초 자료구조
 
