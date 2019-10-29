@@ -17,11 +17,11 @@ package ch02.data_type;
  * 3. 정수 -> 실수
  * 4. float(4 byte) -> double(8 byte)
  */
-public class Type_Conversion {
+public class Type_Casting {
 
 	public static void main(String[] args) {
 
-		// 묵시적 형변환 (implict type conversion) 예시
+		// 묵시적 형변환 (implict type casting) 예시
 
 		byte bNum = 10;
 		int iNum = bNum; // byte -> int
@@ -38,7 +38,7 @@ public class Type_Conversion {
 
 		// ---------------------------------------------------
 
-		// 명시적 형 변환 (explict type conversion) 예시
+		// 명시적 형 변환 (explict type casting) 예시
 
 		int iNum3 = 1000;
 		byte bNum2 = (byte) iNum3;
