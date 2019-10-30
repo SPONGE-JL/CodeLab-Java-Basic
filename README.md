@@ -11,9 +11,9 @@
 ## #2 [객체 지향 프로그래밍](./02-ObjectOrientedProgramming/src#객체-지향-프로그래밍)
 
 - [Ch05. 객체](./02-ObjectOrientedProgramming/src/ch05/object#ch05객체)
-- [Ch05. 객체 - 교실과 학생](./02-ObjectOrientedProgramming/src/ch05/object/classpart/README.md#객체)
-- [Ch05. 객체 - 객체와 함수와 메모리](./02-ObjectOrientedProgramming/src/ch05/object/function/README.md#객체와-함수와-메모리)
-- [Ch05. 객체 - 문제 풀기](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem/README.md#문제-풀기)
+	- [교실과 학생](./02-ObjectOrientedProgramming/src/ch05/object/classpart/README.md#객체)
+	- [객체와 함수와 메모리](./02-ObjectOrientedProgramming/src/ch05/object/function/README.md#객체와-함수와-메모리)
+	- [문제 풀기](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem/README.md#문제-풀기)
 
 
 
