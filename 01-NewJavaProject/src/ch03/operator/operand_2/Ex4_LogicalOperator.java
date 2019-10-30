@@ -3,7 +3,7 @@ package ch03.operator.operand_2;
 /*
  * 이항 연산자 예시 3 : 논리연산자 - 논리연산의 결과를 참,거짓으로 반환
  */
-public class Ex3_LogicalOperator {
+public class Ex4_LogicalOperator {
 
 	public static void main(String[] args) {
 

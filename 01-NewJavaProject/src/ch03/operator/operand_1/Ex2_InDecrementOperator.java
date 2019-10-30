@@ -3,7 +3,7 @@ package ch03.operator.operand_1;
 /*
  * 단항 연산자 예시 3 : 증감연산자 + 전위/후위
  */
-public class Ex3_InDecrementOperator {
+public class Ex2_InDecrementOperator {
 
 	public static void main(String[] args) {
 

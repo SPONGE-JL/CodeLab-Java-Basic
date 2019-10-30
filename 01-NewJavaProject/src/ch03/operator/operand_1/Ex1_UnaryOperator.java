@@ -3,7 +3,7 @@ package ch03.operator.operand_1;
 /*
  * 단항 연산자 예시 1 :부호연산자
  */
-public class Ex1_UraryOperator {
+public class Ex1_UnaryOperator {
 
 	public static void main(String[] args) {
 
