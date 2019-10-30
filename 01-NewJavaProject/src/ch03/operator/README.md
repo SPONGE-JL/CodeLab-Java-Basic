@@ -2,24 +2,24 @@
 
 # Ch03. 연산자
 
-## #1 [단항 연산자](./operand_1)
+## #1 [단항 연산자](./operand_1#1-단항-연산자)
 
-### [부호연산자](./operand_1/Ex1_UnaryOperator.java)
+### [부호연산자](./operand_1/Ex1_UnaryOperator.java#L6)
 
 > **+** : 해당 값을 그대로 전달  
 > **-** : 해당 값의 부호를 반대로 교환  
 > 부호 연산자는 변수에 저장된 값에 영향 없이 호출된 값에만 적용됨
 
-### [증감연산자](./operand_1/Ex2_InDecrementOperator.java)
+### [증감연산자](./operand_1/Ex2_InDecrementOperator.java#L6)
 
 > **++** : 해당 값을 1 올림  
 > **--** : 해당 값을 1 내림  
 > 전위 증감연산 : 해당 값을 해당 행 연산이 시작되기 전에 1 증감  
 > 후위 증감연산 : 해당 값을 해당 행 연산이 끝난 다음에 1 증감
 
-## #2 [이항 연산자](./operand_2)
+## #2 [이항 연산자](./operand_2#2-이항-연산자)
 
-### [대입/산술 연산자](./operand_2/Ex1_BinaryOperator.java)
+### [대입/산술 연산자](./operand_2/Ex1_BinaryOperator.java#L6)
 
 > **=** : 우항의 값을 좌항에 저장(대입)  
 > **+** : 좌항과 우항의 값을 더하기  
@@ -29,7 +29,7 @@
 > **%** : 좌항과 우항의 값으로 나눈 나머지  
 > 문자열이 있을 경우, 숫자값이 아닌 문자열로 인식하여 문자열을 이어 붙임
 
-### [복합대입 연산자](./operand_2/Ex2_ComplexAssignmentOperator.java)
+### [복합대입 연산자](./operand_2/Ex2_ComplexAssignmentOperator.java#L6)
 
 > **+=** : 좌항의 현재 값에 우항의 값을 더하여 좌항에 대입한다.  
 > **-=** : 좌항의 현재 값에 우항의 값만큼을 빼고 좌항에 대입한다  
@@ -37,7 +37,7 @@
 > **/=** : 좌항의 현재 값에 우항의 값을 나눈 몫을 좌항에 대입한다.  
 > **%=** : 좌항의 현재 값에 우항의 값을 나눈 나머지를 좌항에 대입한다.  
 
-### [관계 연산자](./operand_2/Ex3_RelationalOperator.java)
+### [관계 연산자](./operand_2/Ex3_RelationalOperator.java#L6)
 
 > **<** lt : 좌항이 우항보다 작으면 참, 아니면 거짓  
 > **>** gt : 좌항이 우항보다 크면 참, 아니면 거짓  
@@ -46,7 +46,7 @@
 > **==** eq : 좌항이 우항보다 같으면 참, 아니면 거짓  
 > **!=** ne : 좌항이 우항보다 다르면 참, 아니면 거짓  
 
-### [논리 연산자](./operand_2/Ex4_LogicalOperator.java)
+### [논리 연산자](./operand_2/Ex4_LogicalOperator.java#L6)
 
 > **&&** (논리곱): 두 결과 모두 참일때만 참, 나머지는 거짓  
 > 1. 좌항의 결과가 참이어야만 우항을 연산함.  
@@ -63,14 +63,14 @@
 > **!** (부정) : 논리값을 반대로 뒤집음  
 > 단항연산자 중 논리연산자에 속하여 이곳에서 소개
   
-### [비트 연산자](./operand_2/Ex5_BitOperator.java)
+### [비트 연산자](./operand_2/Ex5_BitOperator.java#L6)
 
 > **~** : 비트의 반전  
 > 1의 보수 : 2진수의 관점에서, 0을 1로, 1을 0으로 바꾼 수  
 > 2의 보수 : 1의 보수로 나온 값에 1을 더한 수  
 
-## [심항 연산자](./operand_3)
+## #3 [심항 연산자](./operand_3#3-심항-연산자)
 
-### [삼항 연산자](./operand_3/TernaryOperator.java)
+### [삼항 연산자](./operand_3/TernaryOperator.java#L6)
 
 > (논리연산식) ? (참일 때 결과) : (거짓일 때 결과 )
