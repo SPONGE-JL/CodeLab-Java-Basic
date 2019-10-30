@@ -6,4 +6,4 @@
 
 ## [함수와 객체](./function)
 
-## [인스턴스 실습](./solveProblem)
+## [문제 풀기](./solveProblem)
