@@ -2,8 +2,16 @@
 
 # Ch05.객체
 
-## [교실과 학생](./classpart)
+## 1. [교실과 학생](./classpart)
 
-## [함수와 객체](./function)
+## 2. [객체, 함수, 메모리 그리고 생성자](./function)
 
-## [문제 풀기](./solveProblem)
+## 3. [문제 풀기-1](./solveProblem1)
+
+## 4. [참조 자료형](./referenceDataType)
+
+## 5. [정보 은닉](./hiding)
+
+## 6. [객체 협력](./cooperation)
+
+## 7. [문제 풀기-2](./solveProblem2)
