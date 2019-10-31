@@ -1,6 +1,6 @@
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
 
-# 객체와 함수와 메모리
+# 객체, 함수, 메모리 그리고 생성자
 
 ## [함수(function)](./FunctionTest.java)
 
@@ -58,3 +58,7 @@
 > 인스턴스가 생성되고 나면 **힙 메모리**를 참조하는 메모리를 점유  
 
 
+## [생성자(constructor)](./Constructor.java)
+
+- 클래스를 인스턴스로 생성될 때 수행할 구문을 정의하는 함수
+- 리턴을 명시하지 않고 만드는 파라미터에 따라 다양하게 정의 생성자 (생성자 오버로딩)
