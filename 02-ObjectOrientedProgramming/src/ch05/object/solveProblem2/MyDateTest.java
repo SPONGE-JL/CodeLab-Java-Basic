@@ -9,8 +9,8 @@ public class MyDateTest {
 
 		// 검증 대상
 		int inputYear = 2019;
-		int inputMonth = 10;
-		int inputDay = 31;
+		int inputMonth = 2;
+		int inputDay = 29;
 
 		System.out.println("검증 연 : " + inputYear);
 		System.out.println("검증 월 : " + inputMonth);

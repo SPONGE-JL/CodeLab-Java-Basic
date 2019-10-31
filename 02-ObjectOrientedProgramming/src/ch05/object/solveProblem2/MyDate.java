@@ -34,7 +34,7 @@ public class MyDate {
 			isUseable = isDayRight(31, day);
 			break;
 		case 2:
-			isUseable = isDayRight(28, day);
+			isUseable = isDayRight((year % 4 == 0) ? 29 : 28, day);
 			break;
 		case 3:
 			isUseable = isDayRight(31, day);
