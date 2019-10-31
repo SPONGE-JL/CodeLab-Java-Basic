@@ -1,4 +1,4 @@
-package ch05.object.solveProblem;
+package ch05.object.solveProblem1;
 
 public class Question2_run {
 
