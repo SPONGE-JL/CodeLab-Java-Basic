@@ -15,3 +15,7 @@
 ## 6. [객체 협력](./cooperation)
 
 ## 7. [문제 풀기-2](./solveProblem2)
+
+## 8. [static 변수](./staticEx)
+
+## 9. [문제 풀기-3](./solveProblem3)
