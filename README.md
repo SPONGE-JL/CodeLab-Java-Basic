@@ -19,3 +19,10 @@
 	- 6. [객체 협력](./02-ObjectOrientedProgramming/src/ch05/object/cooperation#객체-협력)  
 	- 7. [문제 풀기-2](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem2#문제-풀기-2)  
 
+- [Ch06. 배열](./02-ObjectOrientedProgramming/src/ch06/array#ch06배열)  
+	- 1. [배열이란](./02-ObjectOrientedProgramming/src/ch06/array/intro/README.md#배열이란)  
+	- 2. [객체 배열](./02-ObjectOrientedProgramming/src/ch06/array/objectArray/README.md#객체-배열)  
+	- 3. [다차원 배열](./02-ObjectOrientedProgramming/src/ch06/array/multiArray/README.md#다차원-배열)  
+	- 4. [ArrayList를 가지는 객체](./02-ObjectOrientedProgramming/src/ch06/array/arrayList#ArrayList)  
+	- 5. [문제 풀기](./02-ObjectOrientedProgramming/src/ch06/array/solveProblem#문제-풀기)  
+
