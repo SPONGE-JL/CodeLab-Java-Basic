@@ -23,6 +23,6 @@
 	- [배열이란](./02-ObjectOrientedProgramming/src/ch06/array/intro/README.md#배열이란)  
 	- [객체 배열](./02-ObjectOrientedProgramming/src/ch06/array/objectArray/README.md#객체-배열)  
 	- [다차원 배열](./02-ObjectOrientedProgramming/src/ch06/array/multiArray/README.md#다차원-배열)  
-	- [ArrayList를 가지는 객체](./02-ObjectOrientedProgramming/src/ch06/array/arrayList#ArrayList)  
+	- [ArrayList](./02-ObjectOrientedProgramming/src/ch06/array/arrayList#ArrayList)  
 	- [문제 풀기](./02-ObjectOrientedProgramming/src/ch06/array/solveProblem#문제-풀기)  
 
