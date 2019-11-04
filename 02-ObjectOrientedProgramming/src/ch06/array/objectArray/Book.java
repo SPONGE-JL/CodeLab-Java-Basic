@@ -1,4 +1,4 @@
-package ch07.array.objectArray;
+package ch06.array.objectArray;
 
 /*
  * 객체배열로 생성되는 책 객체

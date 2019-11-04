@@ -1,4 +1,4 @@
-package ch07.array.objectArray;
+package ch06.array.objectArray;
 
 /*
  * 객체 배열 테스트 :깊은 복사

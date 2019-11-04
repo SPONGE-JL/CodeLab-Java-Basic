@@ -1,4 +1,4 @@
-package ch07.array.intro;
+package ch06.array.intro;
 
 /*
  * 자바의 배열

@@ -1,4 +1,4 @@
-package ch07.array.intro;
+package ch06.array.intro;
 
 /*
  * 문자배열을 생성하고 출력하는 문제입니다. 대문자 A-Z까지 배열에 저장하고 이를 다시 출력하는 프로그램을 만들어보세요.
