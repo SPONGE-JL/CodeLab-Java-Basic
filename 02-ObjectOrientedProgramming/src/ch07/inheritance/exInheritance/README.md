@@ -27,3 +27,45 @@ Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 
 	// 예약어
 	@Override
 ```
+
+
+## 상속을 언제 사용할까?
+
+### is-a 관계
+
+> **일반벅인(Genaral) 개념과 구체적인(Specific) 개념과의 관계**  
+> 상위클래스 : 일반적인 개념 (예. 포유류)  
+> 하위클래스 : 구체적인 개념 (예. 사람, 원숭이, 고래, etc.)  
+> 공통된 속성을 모아서 하나의 타입으로 관리하고자 할때 유용
+
+```java
+
+	class Human extends Mammalia {
+	
+	}
+
+	class Monkey extends Mammalia {
+	
+	}
+
+	class Whale extends Mammalia {
+	
+	}
+
+```
+
+### has-a 관계
+
+> **한 클래스가 다른 클래스를 소유하는 관계**  
+> 단순 코드의 재사용성을 높이고자할 때 유용  
+> Student는 다양한 Subject를 포함할 수 있습니다.
+
+```java
+
+	class Student {
+		Subject subJava;
+		Subject subPython;
+		Subject subNodejs;
+	}
+
+```
