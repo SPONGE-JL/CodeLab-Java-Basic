@@ -31,4 +31,12 @@ public class CompleteCalculator extends Calculator {
 		System.out.println("모두 구현하였습니다.");
 	}
 
+	// 인터페이스의 디펄트 메서드를 재정의할 수 있음
+	/*
+	@Override
+	public void description() {
+		System.out.println("재정의 되었습니다.");
+	}
+	*/
+
 }
