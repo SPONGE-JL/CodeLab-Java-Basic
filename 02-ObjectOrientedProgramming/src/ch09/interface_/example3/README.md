@@ -1,6 +1,6 @@
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
 
-# 인터페이스 다중 상속 예제
+# 인터페이스 간의 다중 상속 예제
 
 ## 예제 역할 관계
 
