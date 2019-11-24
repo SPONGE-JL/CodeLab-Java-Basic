@@ -15,7 +15,8 @@ public class GenericPrinterTest {
 }
 
 // 제네릭 타입(매개변수 타입)으로 생성된 3D프린터 객체
-class GenericPrinter<T> {
+// T에서 사용할 자료형을 제한하기 위핸 extends 적용가능 (유연한 설계)
+class GenericPrinter<T extends Material> {
 	private T material;
 
 	public T getMaterial() {
@@ -28,18 +29,33 @@ class GenericPrinter<T> {
 
 	@Override
 	public String toString() {
-		return material.toString();
+		return material.doPringting();
 	}
 }
 
-class Plastic {
+// T를 제한하기위한 추상 클래스
+abstract class Material {
+	public abstract String doPringting();
+}
+
+class Plastic extends Material {
 	public String toString() {
 		return "재료는 플라스틱입니다.";
 	}
+
+	@Override
+	public String doPringting() {
+		return "제네릭 출력! 플라스틱 제품이 생산되었습니다.";
+	};
 }
 
-class Powder {
+class Powder extends Material {
 	public String toString() {
 		return "재료는 파우더입니다.";
 	}
+
+	@Override
+	public String doPringting() {
+		return "제네릭 출력! 파우더 제품이 생산되었습니다.";
+	};
 }

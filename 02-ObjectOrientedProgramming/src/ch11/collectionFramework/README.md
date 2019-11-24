@@ -23,14 +23,14 @@
 > 하나의 객체를 관리하기 위해 선언된 인터페이스로 필요한 기본 메서드가 선언되어 있음  
 > **Collection**  
 > > **List** : 순서가 있는 자료 관리, 중복 허용  
-> > > ArrayList  
-> > > Vector  
-> > > LinkedList  
-> > > Stack
+> > > ArrayList  ₩
+> > > Vector - 멀티스레드에서 동기화 지원  
+> > > LinkedList - Queue 인터페이스를 이용하여 구현  
+> > > [Stack](./StackTest.java)  
 > > > Queue
 > > **Set** : 순서가 없는 자료관리, *중복 불허*  
-> > > HashSet  
-> > > TreeSet  
+> > > [HashSet](./HashSetTest.java)  
+> > > [TreeSet](./TreeSetTest.java) - 중복을 허용하지 않으면서 오름차순이나 내림차순으로 객체를 정렬하는 자료형 (이진 검색 트리로 구현)  
 
 ### Map Interface
 
