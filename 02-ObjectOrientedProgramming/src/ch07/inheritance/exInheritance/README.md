@@ -10,28 +10,27 @@
 
 ### VIPCustome 클래스의 기능 
 
-Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 필요([상속받아서 구현](./VIPCustomer.java#L12)
+Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 필요 : [상속받아서 구현](./VIPCustomer.java#L12)
 
 ```
-	단골 고객으로 해택이 더 다양해짐
-	제품 구매시 10% 할인
-	보너스 포인트 5% 적립
-	담당 상담원 배정
+
+단골 고객으로 해택이 더 다양해짐
+제품 구매시 10% 할인
+보너스 포인트 5% 적립
+담당 상담원 배정
+
 ```
 
-### [오버라이딩 (Overriding)](./VIPCustomer.java#L21)
-
-상위 클래스에 정의된 메서드의 구현된 내용이 하위 클래스에서 구현할 내용과 달라야 할 때,  
-하위 클래스에서 동일한 이름의 메서드를 재정의하는 행위
+### [오버라이딩 (Overriding)](./VIPCustomer.java#L22)
 
 ```java
 
-	// 부모클래스의 정의된 메소드를 재정의하는 애너테이션(Annotation)
-	@Override
+// 부모클래스의 정의된 메소드를 재정의하는 애너테이션(Annotation)
+@Override
 
 ```
-
-[오버라이딩된 메서드를 실행하는 결과](./OverridingTest.java#L6)
+상위 클래스에 정의된 메서드의 구현된 내용이 하위 클래스에서 구현할 내용과 달라야 할 때,  
+하위 클래스에서 동일한 이름의 메서드를 재정의하는 행위 : [오버라이딩된 메서드를 실행하는 예제](./OverridingTest.java#L6)
 
 ### [형 변환](./OverridingTest.java#L15)
 
@@ -39,6 +38,8 @@ Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 
 - 상위 클래 형으로 변수를 선언하고, 하위 클래스 인스턴스를 생성할 수 있다.
 - 하위 클래스는 상위 클래스의 타입을 내포하고 있고, 사우이 클래스로 묵시적 형변환이 된다.
 - 상속관계에서 모든 하위 클래스는 상위 클래스로 묵시적 형변환이 되지만, 역은 성립하지 않는다.
+
+-----
 
 # 상속을 언제 사용할까?
 
@@ -51,11 +52,11 @@ Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 
 
 ```java
 
-	class Human extends Mammalia { }
+class Human extends Mammalia { }
 
-	class Monkey extends Mammalia { }
+class Monkey extends Mammalia { }
 
-	class Whale extends Mammalia { }
+class Whale extends Mammalia { }
 
 ```
 
@@ -67,10 +68,10 @@ Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 
 
 ```java
 
-	class Student {
-		Subject subJava;
-		Subject subPython;
-		Subject subNodejs;
-	}
+class Student {
+	Subject subJava;
+	Subject subPython;
+	Subject subNodejs;
+}
 
 ```

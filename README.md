@@ -29,9 +29,9 @@
 	- [문제 풀기](./02-ObjectOrientedProgramming/src/ch06/array/solveProblem#문제-풀기)  
 
 - [Ch07. 상속과 다형성](./02-ObjectOrientedProgramming/src/ch07/inheritance#ch07상속과-다형성)  
-  - [상속이란](./intro#상속이란)
-  - [상속 예제](./exInheritance#-상속-예제 )
-  - [다형성](./polymorphism#다형성polymorphism)
+  - [상속이란](./02-ObjectOrientedProgramming/src/ch07/inheritance/intro#상속이란)
+  - [상속 예제](./02-ObjectOrientedProgramming/src/ch07/inheritance/exInheritance#-상속-예제 )
+  - [다형성](./02-ObjectOrientedProgramming/src/ch07/inheritance/polymorphism#다형성polymorphism)
 
 - [Ch08. 추상 클래스](./02-ObjectOrientedProgramming/src/ch08/abstractClass#ch08추상-클래스)  
 - [Ch09. 인터페이스](./02-ObjectOrientedProgramming/src/ch09/interface_#ch09인터페이스)  
