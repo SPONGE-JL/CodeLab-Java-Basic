@@ -1,4 +1,4 @@
-##### :hash:
+### :open_book:
 
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch08추상-클래스)
 
@@ -41,4 +41,4 @@
 > [플레이어는 `go` 명령을 받으면 이 세가지 기능을 위 순서대로 동일하게 수행합니다.](./PlayerLevel.java#L18)  
 > 만약 레벨에 따라  [수행할  수 없는 경우, 수행할 수 없다는 메시지를 보여줍니다.](./BeginnerLevel.java#L12)
 
-<br/><div align="right"><b><a href="#:hash:">↥ back to top</a></b></div><br/>
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
