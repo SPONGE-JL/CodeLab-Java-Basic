@@ -1,4 +1,4 @@
-<h1><img alt="OK SIGN" src="https://github.com/devJRL/CodeLab-JAVA-Basic/blob/trunk/right-icon.png" width="60" height="60"></img></h1>
+<h1><img alt="OK SIGN" src="https://github.com/devJRL/CodeLab-JAVA-Basic/blob/trunk/right-icon.jpg?raw=true" width="60" height="60"></img></h1>
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch08추상-클래스)
 
 # 템플릿 메서드 패턴
