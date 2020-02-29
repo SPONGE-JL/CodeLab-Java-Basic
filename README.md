@@ -41,22 +41,16 @@
   - [상속 예제](./02-ObjectOrientedProgramming/src/ch07/inheritance/exInheritance#-상속-예제 )
   - [다형성](./02-ObjectOrientedProgramming/src/ch07/inheritance/polymorphism#다형성polymorphism)
 
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
-
 - [Ch08. 추상 클래스](./02-ObjectOrientedProgramming/src/ch08/abstractClass#ch08추상-클래스)  
   - [개념](./02-ObjectOrientedProgramming/src/ch08/abstractClass/intro#추상클래스)
   - [기본 활용](./02-ObjectOrientedProgramming/src/ch08/abstractClass/example#추상클래스-기본-활용)
   - [템플릿 메서드 패턴](./02-ObjectOrientedProgramming/src/ch08/abstractClass/template#템플릿-메서드-패턴)
-
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 - [Ch09. 인터페이스](./02-ObjectOrientedProgramming/src/ch09/interface_#ch09인터페이스)  
 
 <br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 - [Ch10. Object 클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#ch10object-class)  
-
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 - [Ch11. 컬렉션 프레임워크](./02-ObjectOrientedProgramming/src/ch11/collectionFramework#ch11컬렉션-프레임워크-collection-framework)  
 
