@@ -1,4 +1,4 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#2-객체-함수-메모리-그리고-생성자)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch05객체)
 
 # 객체, 함수, 메모리 그리고 생성자
 

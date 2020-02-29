@@ -1,6 +1,10 @@
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
 
-# Ch11.컬렉션 프레임워크(Collection Framework : Standard Library of Java)
+# Ch11.컬렉션 프레임워크 (Collection Framework)
+
+C 언어의 Standard Library와 대응되는 Java 진영의 표준 자료구조 패키지를 의미합니다.  
+`java.util` 패키지에 위치하는 이 클래스들은 최적화된 알고리즘으로 자료구조를 제공합니다.  
+JDK에서 제공하는 이 자료구조를 통해서 더 빠르고 안전한 프로그래밍이 되도록 돕습니다.
 
 ## 1. 제네릭 프로그래밍
 

@@ -1,4 +1,4 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#3-다차원-배열)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch06배열)
 
 # [다차원 배열](./TwoDimension.java#L8)
 

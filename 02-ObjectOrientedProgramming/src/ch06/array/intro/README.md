@@ -1,4 +1,4 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#1-배열이란)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch06배열)
 
 # 배열이란
 
