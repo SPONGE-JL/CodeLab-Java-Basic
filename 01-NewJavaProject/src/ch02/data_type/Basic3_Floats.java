@@ -27,6 +27,9 @@ public class Basic3_Floats {
 		// 기본 자료형인 double은 float보다 큰 자료형이므로
 		// 식별자(f)를 붙여서 작은 자료형(float타입)으로 명시해줌
 
+		System.out.println("double : " +d);
+		System.out.println("float : "+f);
+		
 		/*
 		 * 부동소수점의 오류
 		 */

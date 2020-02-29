@@ -8,7 +8,6 @@ public class Ex2_ComplexAssignmentOperator {
 	public static void main(String[] args) {
 
 		int numA = -5;
-		int numB = 10;
 
 		// += : 좌항의 현재 값에 우항의 값을 더하여 좌항에 대입한다.
 		numA += 7; // (동일) numA = numA + 7

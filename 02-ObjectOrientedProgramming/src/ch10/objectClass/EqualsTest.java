@@ -14,16 +14,19 @@ public class EqualsTest {
 		Student Lee2 = Lee1;
 		Student Lee3 = new Student(100, "이순신");
 
-		System.out.println(Lee1 == Lee3);
-		System.out.println(Lee1.equals(Lee3));
+		System.out.println("-------------------");
+
+		System.out.println("Lee1 == Lee2 ? " + (Lee1 == Lee2)); // true  : 메모리주소가 같음 (얕은 참조)
+		System.out.println("Lee1 == Lee3 ? " + (Lee1 == Lee3)); // false : 메모리주소는 서로 다름
+		System.out.println(Lee1.equals(Lee3)); // @Override
 
 		System.out.println("-------------------");
 
 		Integer i1 = new Integer(100);
 		Integer i2 = new Integer(100);
 
-		System.out.println(i1 == i2); // false
-		System.out.println(i1.equals(i2)); // truee
+		System.out.println(i1 == i2);      // false
+		System.out.println(i1.equals(i2)); // true
 		System.out.println(i1.hashCode()); // 100
 		System.out.println(i2.hashCode()); // 100
 

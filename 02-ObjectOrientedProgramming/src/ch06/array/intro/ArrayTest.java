@@ -19,6 +19,10 @@ public class ArrayTest {
 		int[] arrA = new int[10]; // 자료형을 명시하고 이름을 두는 방식으로 선언하는 방식을 권장 
 		int arrB[] = new int[10]; // 이 방법으로도 선언이 된다.
 		
+		// 각 배열의 방(인덱스)에 값을 초기화한다.
+		arrA[0] = 0;
+		arrB[1] = 1;
+		
 		// 선언과 동시에 초기화를 하는 방식
 		int[] arrC = new int[] {1,2,3}; // 선언과 동시에 초기화 하는 경우 방 크기는 생략된다.
 		int[] arrD = {4,5,6,7}; // 이 방법이 가장 많이 사용된다.
@@ -29,11 +33,15 @@ public class ArrayTest {
 		}
 		
 		// 반복문으로 인덱스로 호출된 방에 저장된 값을 교환하여 출력하는 예시
-		for(int i = 0, num = 1 ; i < arrC.length ; i++, num ++) {
+		for(int i = 0, num = 1 ; i < arrD.length ; i++, num ++) {
 			arrC[i] += num;
 			System.out.println("> " + arrC[i]);
 		}
 		
+		// 개선된 반복문을 활용하는 예시
+		for(int i: arrD) {
+			System.out.println(i);
+		}
 	}
 	
 }

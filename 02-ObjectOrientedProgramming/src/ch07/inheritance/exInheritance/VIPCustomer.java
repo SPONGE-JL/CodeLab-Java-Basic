@@ -6,7 +6,6 @@ package ch07.inheritance.exInheritance;
 public class VIPCustomer extends Customer {
 
 	double salesRatio;
-	private int agentID;
 
 	public VIPCustomer(int customerID, String customerName) {
 		// 상위 클래스를 상속받으면 하위 클래스에서 사용할 수 있음

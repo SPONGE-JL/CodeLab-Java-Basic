@@ -22,9 +22,16 @@ public class HelloJava {
 		// 5. 변수는 그 쓰임에 맞는 이름으로 줄이지 않고 가독성을 높인다.
 		// 6. 같은 타입의 변수를 병렬선언은 권장하지 않는다.
 		int age, count;
+		
 		// 7. 지역변수는 반드시 초기화 후에 호출한다.
-		int age2 = 10;
-		System.out.println(age2);
+		age = 10;
+		System.out.println(age);
+		
+		// 8. 아래는 초기화되지 않았으므로 틀린 코드이다.
+		// System.out.println(count);
+		// 아래에서 초기화한 뒤 사용하므로 사용가능하다.
+		count = age;
+		System.out.println(count);
 
 	}
 

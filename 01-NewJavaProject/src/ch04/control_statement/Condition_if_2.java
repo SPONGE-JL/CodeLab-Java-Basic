@@ -19,8 +19,9 @@ public class Condition_if_2 {
 		}
 
 		// 위 식과 아래 식은 동일하게 수행된다.
-
 		max = (a > b) ? a : b;
+		
+		System.out.println(max);
 
 	}
 

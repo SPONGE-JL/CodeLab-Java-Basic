@@ -36,6 +36,7 @@ public class Condition_switch_1 {
 
 		System.out.println(rank + "등은 " + medalColor + "입니다.");
 
+		scanner.close();
 	}
 
 }

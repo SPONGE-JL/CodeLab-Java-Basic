@@ -27,6 +27,8 @@ public class Condition_if_3 {
 
 		System.out.println("Age : " + age);
 		System.out.println("Fee : " + charge);
+		
+		scanner.close();
 	}
 
 }

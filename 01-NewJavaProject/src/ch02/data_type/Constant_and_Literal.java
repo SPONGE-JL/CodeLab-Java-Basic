@@ -15,6 +15,8 @@ public class Constant_and_Literal {
 		final int a = 10;
 		// 상수를 특정 타입으로 지정하려 선언과 동시에 초기화 되어야합니다.
 		// 상수 풀에서 해당 값을 가지는 이름이 저장되고 변경이 불가합니다.
+		
+		System.out.println("상수 : " + a);
 
 	}
 

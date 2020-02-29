@@ -28,6 +28,9 @@ public class SortTest {
 		default:
 			System.out.println("잘못 입력하셨습니다. 종료합니다.");
 		}
+		
+		System.out.println(sort.toString());
+		scanner.close();
 	}
 
 }

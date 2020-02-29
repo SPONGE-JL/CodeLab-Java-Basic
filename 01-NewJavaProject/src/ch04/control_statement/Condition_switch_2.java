@@ -38,6 +38,8 @@ public class Condition_switch_2 {
 		}
 
 		System.out.println(month + "/" + day);
+		
+		scanner.close();
 	}
 
 }
