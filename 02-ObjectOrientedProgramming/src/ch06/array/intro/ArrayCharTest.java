@@ -7,20 +7,14 @@ public class ArrayCharTest {
 
 	public static void main(String[] args) {
 		
+		// 문자배열
 		char[] alphabet = new char[] {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'};
 		
-		for (char c : alphabet) {
-			System.out.print(c + " ");
-		}
-		
-		// 출력결과
-		// A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-		
+		// 일반 for문
 		for (int i = 0 ; i < alphabet.length ; i ++ ) {
 			System.out.println(i + " : " + alphabet[i]);
 		}
-		
-		// 출력결과
+		// 결과
 		/*
 			1 : B
 			2 : C
@@ -48,6 +42,13 @@ public class ArrayCharTest {
 			24 : Y
 			25 : Z
 		*/
+		
+		// 개선된 for문
+		for (char c : alphabet) {
+			System.out.print(c + " ");
+		}
+		// 결과
+		// A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 	}
 	
 }

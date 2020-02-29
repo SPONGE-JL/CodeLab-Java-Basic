@@ -1,10 +1,10 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#7-문제-풀기-2)
 
 # 문제 풀기 2
 
 ## 문제1
 
-- [날짜 유효성 검증 프로그램 구현](./MyDate.java)
+- [날짜 유효성 검증 프로그램 구현](./MyDate.java#L6)
 
 ```
 	- day, month, year 변수는 private로 작성합니다.
@@ -15,7 +15,7 @@
 	- [MyDateTest 클래스](./MyDateTest.java)에서 생성한 MyDate 날짜가 유효한지 확인합니다.
 ```
 
-- [출력결과](./MyDateTest.java)
+- [출력결과](./MyDateTest.java#L6)
 
 ```
 	검증 연 : 2019
@@ -33,7 +33,7 @@
 
 ## 문제2
 
-- [커피값 계산 후 잔액 확인 프로그램 구현](./Buyier.java)
+- [커피값 계산 후 잔액 확인 프로그램 구현](./Buyier.java#L6)
 
 ```
 	- 김 졸려 씨는 10,000짜리 현찰을 가지고 있었습니다.
@@ -43,7 +43,7 @@
 	- 두 사람의 각각 잔액은 얼마인지 [구현](./BuyCoffeeTest.java)해 봅시다. 
 ```
 
-- [출력결과](./BuyCoffeeTest.java)
+- [출력결과](./BuyCoffeeTest.java#L3)
 
 ```
 	김 졸려님의 잔고 : 10000

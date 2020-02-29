@@ -1,7 +1,7 @@
 package ch05.object.solveProblem2;
 
 /*
- * 날짜의 유혀성을 검증하는 프로그램 실행 클래스
+ * 날짜의 유효성을 검증하는 프로그램 실행 클래스
  */
 public class MyDateTest {
 

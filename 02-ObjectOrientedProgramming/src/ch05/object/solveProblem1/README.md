@@ -1,17 +1,17 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#3-문제-풀기-1)
 
 # 문제 풀기
 
 ## 문제1
 
-- [문제](./Question1.java)
+- [문제](./Question1.java#L11)
 
 ```
 	나이가 40살, 이름이 James인 남자가 있습니다.
 	이 남자는 결혼을 했고, 자식이 셋 있습니다.
 ```
 
-- [출력결과](./Question1_run.java)
+- [출력결과](./Question1_run.java#L15)
 
 ```
 	나이 : 40
@@ -23,7 +23,7 @@
 
 ## 문제2
 
-- [문제](./Question2.java)
+- [문제](./Question2.java#L12)
 
 ```
 	쇼핑몰에 주문이 들어왔습니다. 주문내용은 다음과 같습니다.
@@ -39,7 +39,7 @@
 	인스턴스로 생성한 후 위와 같은 형식으로 출력해보세요.
 ```
 
-- [출력결과](./Question2_run.java)
+- [출력결과](./Question2_run.java#L16)
 
 ```
 	주문 번호 : 201910300001

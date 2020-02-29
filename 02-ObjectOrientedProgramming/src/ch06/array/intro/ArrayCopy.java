@@ -18,7 +18,14 @@ public class ArrayCopy {
 		for (int i : arr2) {
 			System.out.println(i);
 		}
-
+		// 출력결과
+		/*
+			1
+			10
+			20
+			30
+			5
+		 */
 	}
 
 }

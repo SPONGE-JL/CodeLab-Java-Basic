@@ -2,7 +2,7 @@
 
 # static 변수
 
-## [메모리, static, 변수...](./student.java)
+## [메모리, static, 변수...](./Student.java#6)
 
 ### static 변수
 
@@ -25,9 +25,9 @@
 - 함수 호출할 때 stack 메모리에서 생성
 - 함수 호출이 끝나면 함수의 소멸과 함께 메모리 즉시 소거
 
-## [static 응용 : singleton pattern](./Company.java)
+## [static 응용 : singleton pattern](./Company.java#L6)
 
-### 싱글톤 : 단 하나만 존재하는 인스턴스
+### 싱글톤 : 단 하나만 존재하는 인스턴스 ([예제 결과](./CompanyTest.java#L10))
 
 - `private` constructor(생성자)
 - static으로 유일한 객체 생성

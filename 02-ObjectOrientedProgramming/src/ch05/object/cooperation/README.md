@@ -1,8 +1,8 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#6-객체-협력)
 
-# 객체의 협력
+# 객체 협력
 
-## [인스턴스 참조를 이용한 시나리오 구현](./Simulation.java)
+## [인스턴스 참조를 이용한 시나리오 구현](./Simulation.java#L3)
 
 - "이정렬"이라는 이름의 학생은 기본지급금 5,000원을 받습니다.
 - 버스와 지하철을 타면 각각의 1050원, 1800원의 요금이 차감됩니다.

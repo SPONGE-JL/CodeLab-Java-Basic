@@ -24,17 +24,17 @@ public class StudentTest {
 
 		Student studentPark = new Student("Park");
 
-		// 출력
+		// 학생결과 출력
 		studentLee.printBookList();
 		studentKim.printBookList();
 		studentChoi.printBookList();
 		studentPark.printBookList();
 		
 		/*
-		Lee 학생이 읽은 책은 '태백산맥1' '태백산맥2' 입니다.
-		Kim 학생이 읽은 책은 '토지1' '토지2' '토지3' 입니다.
-		Choi 학생이 읽은 책은 '해리포터1' '해리포터2' '해리포터3' '해리포터4' '해리포터5' '해리포터6' 입니다.
-		Park 학생이 읽은 책은 없습니다.
+			Lee 학생이 읽은 책은 '태백산맥1' '태백산맥2' 입니다.
+			Kim 학생이 읽은 책은 '토지1' '토지2' '토지3' 입니다.
+			Choi 학생이 읽은 책은 '해리포터1' '해리포터2' '해리포터3' '해리포터4' '해리포터5' '해리포터6' 입니다.
+			Park 학생이 읽은 책은 없습니다.
 		 */
 
 	}

@@ -18,6 +18,8 @@
 	- [정보 은닉](./02-ObjectOrientedProgramming/src/ch05/object/hiding#정보-은닉)  
 	- [객체 협력](./02-ObjectOrientedProgramming/src/ch05/object/cooperation#객체-협력)  
 	- [문제 풀기-2](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem2#문제-풀기-2)  
+	- [static 변수](./02-ObjectOrientedProgramming/src/ch05/object/staticEx#static-변수)
+	- [문제 풀기-3](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem3#문제-풀기-3)  
 
 - [Ch06. 배열](./02-ObjectOrientedProgramming/src/ch06/array#ch06배열)  
 	- [배열이란](./02-ObjectOrientedProgramming/src/ch06/array/intro/README.md#배열이란)  

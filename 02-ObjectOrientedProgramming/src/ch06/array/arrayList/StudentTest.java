@@ -14,9 +14,29 @@ public class StudentTest {
 		studentKim.addSubject("영어", 80);
 
 		studentLee.showStudentInfo();
-		System.out.println("////////////");
+		/*
+			ID : 1001
+			이름 : Lee
+			------------
+			국어 : 100
+			수학 : 90
+			------------
+			총점 : 190
+		 */
+		
+		System.out.println("");
+		
 		studentKim.showStudentInfo();
-
+		/*
+			ID : 1002
+			이름 : Kim
+			------------
+			국어 : 100
+			수학 : 95
+			영어 : 80
+			------------
+			총점 : 275
+		 */
 	}
 
 }

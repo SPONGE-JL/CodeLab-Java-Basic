@@ -1,8 +1,8 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#1-교실과-학생)
 
 # 객체
 
-## 학생
+## 교실과 학생
 
 - 학생이 있습니다.
 - 이 학생은 `학번, 이름, 나이, 주소`를 제공합니다.

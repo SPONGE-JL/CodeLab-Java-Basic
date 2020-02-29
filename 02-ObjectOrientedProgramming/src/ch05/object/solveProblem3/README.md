@@ -1,10 +1,10 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#9-문제 풀기-3)
 
 # 문제 풀기 3
 
 ## 문제1
 
-- [static + singleton pattern으로 카드회사 구현하기](./MyDate.java)
+- [static + singleton pattern으로 카드회사 구현하기](./CardCompany.java#L3)
 
 ```
 	카드회사가 있습니다.
@@ -13,7 +13,7 @@
 	다음 코드가 수행되도록 Card 클래스와 CardCompany 클래스를 구현해 보세요.
 ```
 
-- [출력결과](./MyDateTest.java)
+- [출력결과](./CardCompanyTest.java#L6)
 
 ```java
 	public class CardCompanyTest {

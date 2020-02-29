@@ -1,4 +1,4 @@
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#1-배열이란)
 
 # 배열이란
 
@@ -9,7 +9,7 @@
 - 중간에 값을 끼워넣기 위해서는 기존 값을 다음칸으로 복사한 뒤에 넣고자 하는 값을 덧씌워야함  
 - 첨자연산을 지원하므로 속도가 매우 빠르고, 배열의 인덱스(index)가 0부터 시작한다.  
 
-## [다양한 선언 방법](./ArrayTest.java)
+## [다양한 선언 방법](./ArrayTest.java#L18)
 ```java
 	// 선언 후 초기회 하는 방식
 	// 자료형을 명시하고 이름을 두는 방식으로 선언하는 방식을 권장
@@ -24,6 +24,6 @@
 	int[] arrD = {4,5,6,7}; 
 ```
 
-## [문자 배열 생성 및 출력하기](./ArrayCharTest.java)
+## [문자 배열 생성 및 출력하기](./ArrayCharTest.java#L11)
 
-## [배열의 복사](./ArrayCopy.java)
+## [배열의 복사](./ArrayCopy.java#L13)

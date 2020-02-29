@@ -2,12 +2,12 @@
 
 # Ch06.배열
 
-## 1. [배열이란](./intro)
+## 1. [배열이란](./intro#배열이란)
 
-## 2. [객체 배열](./objectArray)
+## 2. [객체 배열](./objectArray#객체-배열)
 
-## 3. [다차원 배열](./multiArray)
+## 3. [다차원 배열](./multiArray#다차원-배열)
 
-## 4. [ArrayList를 가지는 객체](./arrayList)
+## 4. [ArrayList를 가지는 객체](./arrayList#arraylist)
 
-## 5. [문제 풀기](./solveProblem)
+## 5. [문제 풀기](./solveProblem#문제-풀기)
