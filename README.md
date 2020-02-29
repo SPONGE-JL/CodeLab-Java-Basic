@@ -32,4 +32,4 @@
 - [Ch08. 추상 클래스](./02-ObjectOrientedProgramming/src/ch08/abstractClass#ch08추상-클래스)  
 - [Ch09. 인터페이스](./02-ObjectOrientedProgramming/src/ch09/interface_#ch09인터페이스)  
 - [Ch10. Object 클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#ch10object-class)  
-- [Ch11. 컬렉션 프레임워크](./02-ObjectOrientedProgramming/src/ch11/collectionFramework#ch11컬렉션-프레임워크collection-framework)  
+- [Ch11. 컬렉션 프레임워크](./02-ObjectOrientedProgramming/src/ch11/collectionFramework#ch11컬렉션-프레임워크-collection-framework)  
