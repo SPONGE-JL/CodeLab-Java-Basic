@@ -1,6 +1,6 @@
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic)
 
-#객체 지향 프로그래밍
+# 객체 지향 프로그래밍
 
 - [Ch05. 객체](./ch05/object#ch05객체)  
 - [Ch06. 배열](./ch06/array#ch06배열)  

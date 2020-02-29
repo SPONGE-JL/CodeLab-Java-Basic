@@ -2,9 +2,9 @@
 
 # Ch07.상속과 다형성
 
-## 1. [개념](./intro#상속이란)
+## 1. [상속이란](./intro#상속이란)
 
-## 2. [상속 예제](./exInheritance)
+## 2. [상속 예제](./exInheritance#-상속-예제 )
 
 ## 3. [다형성(polymorphism)](./polymorphism#다형성polymorphism)
 
