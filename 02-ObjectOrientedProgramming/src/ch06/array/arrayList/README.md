@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch06배열)
 
 # ArrayList
@@ -25,9 +27,13 @@
 
 ```
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+
 ## [ArrayList로 구현하는 학생자료](./StudentTest.java#L7)
 
 - 학생 객체는 이름과 학번을 가진다.
 - 과목은 과목이름과 점수로 구성된다. 
 - 학생은 여러 과목의 정보를 가진다.
 - 학생 정보에 여러 과목정보를 입력하고, 출력을 하기 용이한 객체를 설계하자.
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

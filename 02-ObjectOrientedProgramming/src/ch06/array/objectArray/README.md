@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch06배열)
 
 # 객체 배열
@@ -19,3 +21,5 @@
 - [깊은 복사](./BookCopyTest2.java)  
 	- 복사할 대상의 메모리데이터를 복사하여 사본에 저장(초기화)  
 	- 원본이 바뀌어도 사본은 다른 메모리주소값으로 저장된 별도의 데이터이므로 변화 없음
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

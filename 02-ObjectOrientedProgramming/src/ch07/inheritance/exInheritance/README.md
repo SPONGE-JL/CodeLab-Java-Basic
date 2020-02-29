@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch07상속과-다형성)
 
 # 상속 예제 
@@ -39,7 +41,9 @@ Customer 클래스와 유사하지만, 그보다 더 많은 속성과 기능이 
 - 하위 클래스는 상위 클래스의 타입을 내포하고 있고, 사우이 클래스로 묵시적 형변환이 된다.
 - 상속관계에서 모든 하위 클래스는 상위 클래스로 묵시적 형변환이 되지만, 역은 성립하지 않는다.
 
------
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+
 
 # 상속을 언제 사용할까?
 
@@ -73,5 +77,8 @@ class Student {
 	Subject subPython;
 	Subject subNodejs;
 }
+
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ```

@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](../..#자바-입문)
 
 # Ch02. 기초 자료구조
@@ -29,6 +31,7 @@
 	long l = -9223372036854775808L; // 922경 3372조 386억 5477만 5808
 ```
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ### [문자형](./Basic2_Character.java)
 
@@ -38,6 +41,7 @@
 > - 코드값을 문자 세트로 되돌리려면 디코딩(Decoding)으로 전환    
 > - 자바는 기본적으로 Unicode를 사용하고, UTF-8을 기본으로 사용
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ### [실수형](./Basic3_Floats.java)
 
@@ -59,6 +63,7 @@
 > 아주 넓은 범위의 실수릂 표현할 수 있는 장점  
 > 0을 표현할 수 없음으로 인해서 오차가 발생할 수 있음
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ### [논리형](./Basic4_Boolean.java)
 
@@ -66,6 +71,7 @@
 > - 크기 : 1byte
 > - 참(true) 또는 거짓(false)을 저장하기 위한 논리 자료형 (기본값은 false)
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ## 자료의 상태
 
@@ -77,6 +83,7 @@
 > 모든 리터럴은 상수 풀(constant pool)에 저장.  
 > 상수풀에 저장될 때, 정수는 int, 실수는 double로 저장.
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ### [형 변환](./Type_Casting.java)
 
@@ -95,3 +102,5 @@
 > 2. char(2 byte) -> int(4 byte) -> long(8 byte)
 > 3. 정수 -> 실수
 > 4. float(4 byte) -> double(8 byte)
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

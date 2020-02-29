@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](../..#자바-입문)
 
 # Ch01. 자바프로그램 입문
@@ -25,3 +27,5 @@
 5. 변수는 그 쓰임에 맞는 이름으로 가급적 줄이지 않고 기록하여 가독성을 높인다.
 
 6. 같은 타입의 변수는 병렬선언이 가능하다. 그러나 `병렬선언은 권장하지 않는다`.
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

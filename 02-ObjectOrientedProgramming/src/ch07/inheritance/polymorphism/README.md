@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch07상속과-다형성)
 
 # 다형성(polymorphism)
@@ -15,8 +17,8 @@
 
 ## [다형성을 활용하는 방법](./AnimalTest.java#L5)
 
-> 여러가지 클래스를 묶어서 하나의 타입으로 관리하고자할 때 용이합니다.  
-> 공통된 속성을 부모클래스에서 구현합니다.  
+> 여러가지 클래스를 묶어서 하나의 타입으로 관리하고자할 때 적용할 수 있습니다.  
+> 공통된 속성을 부모클래스에서 구현(메소드 정의)합니다.  
 
 ## 다운캐스팅(DownCasting)과 instanceof
 
@@ -33,3 +35,5 @@
 
 > 그러나, 명시적 형변환만 사용하면 오류가 발생할 수 있습니다.  
 > **[instanceof 연산자](./AnimalTest.java#L98)**를 사용해서 타입 체크를 수행합니다.
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

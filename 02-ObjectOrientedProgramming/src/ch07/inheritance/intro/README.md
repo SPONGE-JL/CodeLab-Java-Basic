@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch07상속과-다형성)
 
 # 상속이란
@@ -22,6 +24,8 @@
 - 수행 클래스(deriven class)
 - 서브 클래스(sub class)
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+
 ## 상속 구현하기
 
 ```java
@@ -33,3 +37,5 @@ class B extend A {
 }
 
 ```
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

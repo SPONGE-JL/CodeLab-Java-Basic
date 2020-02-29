@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch06배열)
 
 # 배열이란
@@ -27,3 +29,6 @@
 ## [문자 배열 생성 및 출력하기](./ArrayCharTest.java#L11)
 
 ## [배열의 복사](./ArrayCopy.java#L13)
+
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

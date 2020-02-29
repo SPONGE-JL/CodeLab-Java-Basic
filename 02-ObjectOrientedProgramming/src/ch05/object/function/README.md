@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch05객체)
 
 # 객체, 함수, 메모리 그리고 생성자
@@ -8,6 +10,7 @@
 - 함수는 호출하여 사용하고, 기능이 수핸된 후 값을 반환할 수 있습니다.
 - 함수로 구현된 기능은 여러 곳에서 호출되어 사용될 수 있습니다.
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ## 객체, 클래스, 함수, 변수 그리고 메모리
 
@@ -33,7 +36,7 @@
 > **reference value** (참조 값)  
 > JVM에 의해 생성된 인스턴스의 메모리 주소 값  
 
----
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 > **method** (메서드)  
 > 멤버 변수를 이용하여 클래스의 기능 구현된 코드 (호출되어 수행)  
@@ -48,7 +51,7 @@
 > **local variable** (지역변수)  
 > 메소드 내부 혹은 braket({,})내부 에서 생성된 변수 
 
----
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 > **heap memory** (힙 메모리)  
 > 인스턴스가 생성시 점유하는 영역. 멤버 변수의 크기에 따라 점유하는 **동적 메모리**  
@@ -57,8 +60,11 @@
 > 함수가 호출되는 순서대로 쌓여서 수행 후 완료되면 사라지는 메모리  
 > 인스턴스가 생성되고 나면 **힙 메모리**를 참조하는 메모리를 점유  
 
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 ## [생성자(constructor)](./Constructor.java#L6)
 
 - 클래스를 인스턴스로 생성될 때 수행할 구문을 정의하는 함수
 - 리턴을 명시하지 않고 만드는 파라미터에 따라 다양하게 정의 생성자 (생성자 오버로딩)
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

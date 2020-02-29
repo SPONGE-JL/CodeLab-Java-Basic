@@ -1,3 +1,5 @@
+### :open_book:
+
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch05객체)
 
 # 정보 은닉
@@ -13,3 +15,5 @@
 
 - [생성자에서 다른 생성자를 호출할 때](./ThisExample.java#L14)
 - 자기 자신 객체를 가리킴 ([자기자신의 메모리 주소값 반환](./ThisExample.java#L24))
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
