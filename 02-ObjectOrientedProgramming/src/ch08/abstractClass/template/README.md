@@ -1,5 +1,7 @@
 [Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch08추상-클래스)
 
+---
+
 # 템플릿 메서드 패턴
 
 ## 템플릿 메서드
