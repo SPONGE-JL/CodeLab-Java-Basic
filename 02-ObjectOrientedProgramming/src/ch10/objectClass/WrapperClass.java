@@ -1,5 +1,8 @@
 package ch10.objectClass;
 
+/*
+ * Wrapper클래스 : 기본 자료형에 대한 클래스
+ */
 public class WrapperClass {
 
 	// C 언어에서 사용된 자료형을 연계하기 위해서 제공하는 클래스로

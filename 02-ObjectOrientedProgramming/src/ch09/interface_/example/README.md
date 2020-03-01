@@ -1,8 +1,8 @@
 ### :open_book:
 
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch09인터페이스)
 
-# 인터페이스 예제 
+# 인터페이스 입문 
 
 ## 역할 관계
 

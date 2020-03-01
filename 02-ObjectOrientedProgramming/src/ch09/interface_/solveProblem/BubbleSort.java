@@ -14,4 +14,8 @@ public class BubbleSort extends AbsSort {
 		System.out.println(" ~~~~ logic B ~~~~");
 	}
 
+	@Override
+	public String toString() {
+		return "BubbleSort가 구현되었습니다.";
+	}
 }

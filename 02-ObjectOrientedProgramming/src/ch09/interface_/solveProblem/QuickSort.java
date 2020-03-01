@@ -14,4 +14,8 @@ public class QuickSort extends AbsSort {
 		System.out.println(" ~~~~ logic Q ~~~~");
 	}
 
+	@Override
+	public String toString() {
+		return "QuickSort가 구현되었습니다.";
+	}
 }

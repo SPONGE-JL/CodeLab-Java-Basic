@@ -1,5 +1,8 @@
 package ch10.objectClass;
 
+/*
+ * StringBuilder 클래스와 StringBuffer 클래스
+ */
 public class StringBuilderTest {
 
 	public static void main(String[] args) {

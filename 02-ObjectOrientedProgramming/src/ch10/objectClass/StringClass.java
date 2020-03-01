@@ -1,8 +1,12 @@
 package ch10.objectClass;
 
+/*
+ * String 선언, 힙메모리, 상수풀 예제
+ */
 public class StringClass {
 
 	public static void main(String[] args) {
+
 
 		// 인스턴스로 생성되어 문자열을 힙 메모리에 생성
 		String str1 = new String("abc");

@@ -1,5 +1,8 @@
 package ch10.objectClass;
 
+/*
+ * String 불변성과 메모리 낭비
+ */
 public class StringClass2 {
 
 	public static void main(String[] args) {

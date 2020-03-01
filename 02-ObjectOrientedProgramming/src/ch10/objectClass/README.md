@@ -11,16 +11,16 @@
 > 모든 클래스는 Object 클래스의 메서드를 사용할 수 있음  
 > 모든 클래스는 Ojbect 클래스의 일부 메서드를 재정의하여 사용할 수 있음 (final method 제외)  
 
-## 2. [toString() 메서드 오버라이딩](./ToStringTest.java)
+## 2. [toString() 메서드 오버라이딩](./ToStringTest.java#L33)
 
-## 3. [equlas() 메서드](./EqaulsTest.java)
+## 3. [equlas() 메서드](./EqaulsTest.java#47)
 
-## 4. [String 선언, 힙메모리, 상수풀](./StringClass.java)
+## 4. [String 선언, 힙메모리, 상수풀](./StringClass.java#L6)
 
-## 5. [String 불변성과 메모리 낭비](./StringClass2.java)
+## 5. [String 불변성과 메모리 낭비](./StringClass2.java#L6)
 
-## 6. [StringBuilder 클래스와 StringBuffer 클래스](./StringBuilderTest.java)
+## 6. [StringBuilder 클래스와 StringBuffer 클래스](./StringBuilderTest.java#L6)
 
-## 7. [Wrapper클래스 : 기본 자료형에 대한 클래스](./WrapperClass.java)
+## 7. [Wrapper클래스 : 기본 자료형에 대한 클래스](./WrapperClass.java#L6)
 
 <br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>

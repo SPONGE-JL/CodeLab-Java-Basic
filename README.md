@@ -25,8 +25,6 @@
 	- [static 변수](./02-ObjectOrientedProgramming/src/ch05/object/staticEx#static-변수)
 	- [문제 풀기-3](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem3#문제-풀기-3)  
 
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
-
 - [Ch06. 배열](./02-ObjectOrientedProgramming/src/ch06/array#ch06배열)  
 	- [개념](./02-ObjectOrientedProgramming/src/ch06/array/intro/README.md#배열이란)  
 	- [객체 배열](./02-ObjectOrientedProgramming/src/ch06/array/objectArray/README.md#객체-배열)  
@@ -47,10 +45,24 @@
   - [템플릿 메서드 패턴](./02-ObjectOrientedProgramming/src/ch08/abstractClass/template#템플릿-메서드-패턴)
 
 - [Ch09. 인터페이스](./02-ObjectOrientedProgramming/src/ch09/interface_#ch09인터페이스)  
-
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+  - [개념](./02-ObjectOrientedProgramming/src/ch09/interface_/intro#인터페이스 )
+  - [입문](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple#인터페이스-입문)
+  - [인터페이스와 다형성](./02-ObjectOrientedProgramming/src/ch09/interface_/practice#인터페이스와-다형성)
+  - [디펄트 메서드](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple2#디펄트-메서드)
+  - [다중 상속](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple3#인터페이스-간의-다중 상속)
+  - [구현과 상속](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple4#인터페이스-구현과-클래스-상속-함께-사용하기)
+  - [문제 풀기](./02-ObjectOrientedProgramming/src/ch09/interface_/solveProblem#문제-풀기)
 
 - [Ch10. Object 클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#ch10object-class)  
+  - [개념](./02-ObjectOrientedProgramming/src/ch10/objectClass#1-개념) 
+  - [toString() 메서드 오버라이딩](./02-ObjectOrientedProgramming/src/ch10/objectClass#2-tostring-메서드-오버라이딩)
+  - [equlas() 메서드](./02-ObjectOrientedProgramming/src/ch10/objectClass#3-equlas-메서드)
+  - [String 선언, 힙메모리, 상수풀](./02-ObjectOrientedProgramming/src/ch10/objectClass#4-string-선언-힙메모리-상수풀)
+  - [String 불변성과 메모리 낭비](./02-ObjectOrientedProgramming/src/ch10/objectClass#5-string-불변성과-메모리-낭비)
+  - [StringBuilder 클래스와 StringBuffer 클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#6-stringbuilder-클래스와-stringbuffer-클래스)
+  - [Wrapper클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#7-wrapper클래스--기본-자료형에-대한-클래스)
+
+<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
 
 - [Ch11. 컬렉션 프레임워크](./02-ObjectOrientedProgramming/src/ch11/collectionFramework#ch11컬렉션-프레임워크-collection-framework)  
 

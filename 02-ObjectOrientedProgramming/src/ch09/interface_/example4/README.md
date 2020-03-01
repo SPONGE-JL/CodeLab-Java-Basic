@@ -1,6 +1,6 @@
 ### :open_book:
 
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#ch09인터페이스)
 
 # 인터페이스 구현과 클래스 상속 함께 사용하기
 

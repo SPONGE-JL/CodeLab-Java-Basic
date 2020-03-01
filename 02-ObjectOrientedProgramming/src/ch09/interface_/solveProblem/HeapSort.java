@@ -1,6 +1,6 @@
 package ch09.interface_.solveProblem;
 
-public class HeapSort implements Sort {
+public class HeapSort extends AbsSort {
 
 	@Override
 	public void ascending(int[] intArray) {
@@ -14,4 +14,8 @@ public class HeapSort implements Sort {
 		System.out.println(" ~~~~ logic H ~~~~");
 	}
 
+	@Override
+	public String toString() {
+		return "HeapSort가 구현되었습니다.";
+	}
 }
