@@ -10,7 +10,7 @@
 - [Ch03. 연산자](./01-NewJavaProject/src/ch03/operator)
 - [Ch04. 조건문, 반복문, 제어문](./01-NewJavaProject/src/ch04/control_statement)
 
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
 
 ## 2. [객체 지향 프로그래밍](./02-ObjectOrientedProgramming/src#객체-지향-프로그래밍)
 
@@ -25,6 +25,8 @@
 	- [static 변수](./02-ObjectOrientedProgramming/src/ch05/object/staticEx#static-변수)
 	- [문제 풀기-3](./02-ObjectOrientedProgramming/src/ch05/object/solveProblem3#문제-풀기-3)  
 
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
+
 - [Ch06. 배열](./02-ObjectOrientedProgramming/src/ch06/array#ch06배열)  
 	- [개념](./02-ObjectOrientedProgramming/src/ch06/array/intro/README.md#배열이란)  
 	- [객체 배열](./02-ObjectOrientedProgramming/src/ch06/array/objectArray/README.md#객체-배열)  
@@ -32,17 +34,21 @@
 	- [ArrayList](./02-ObjectOrientedProgramming/src/ch06/array/arrayList#ArrayList)  
 	- [문제 풀기](./02-ObjectOrientedProgramming/src/ch06/array/solveProblem#문제-풀기)  
 
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
 
 - [Ch07. 상속과 다형성](./02-ObjectOrientedProgramming/src/ch07/inheritance#ch07상속과-다형성)  
   - [개념](./02-ObjectOrientedProgramming/src/ch07/inheritance/intro#상속이란)
   - [상속 예제](./02-ObjectOrientedProgramming/src/ch07/inheritance/exInheritance#-상속-예제 )
   - [다형성](./02-ObjectOrientedProgramming/src/ch07/inheritance/polymorphism#다형성polymorphism)
 
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
+
 - [Ch08. 추상 클래스](./02-ObjectOrientedProgramming/src/ch08/abstractClass#ch08추상-클래스)  
   - [개념](./02-ObjectOrientedProgramming/src/ch08/abstractClass/intro#추상클래스)
   - [기본 활용](./02-ObjectOrientedProgramming/src/ch08/abstractClass/example#추상클래스-기본-활용)
   - [템플릿 메서드 패턴](./02-ObjectOrientedProgramming/src/ch08/abstractClass/template#템플릿-메서드-패턴)
+
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
 
 - [Ch09. 인터페이스](./02-ObjectOrientedProgramming/src/ch09/interface_#ch09인터페이스)  
   - [개념](./02-ObjectOrientedProgramming/src/ch09/interface_/intro#인터페이스 )
@@ -53,6 +59,8 @@
   - [구현과 상속](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple4#인터페이스-구현과-클래스-상속-함께-사용하기)
   - [문제 풀기](./02-ObjectOrientedProgramming/src/ch09/interface_/solveProblem#문제-풀기)
 
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
+
 - [Ch10. Object 클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#ch10object-class)  
   - [개념](./02-ObjectOrientedProgramming/src/ch10/objectClass#1-개념) 
   - [toString() 메서드 오버라이딩](./02-ObjectOrientedProgramming/src/ch10/objectClass#2-tostring-메서드-오버라이딩)
@@ -62,8 +70,8 @@
   - [StringBuilder 클래스와 StringBuffer 클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#6-stringbuilder-클래스와-stringbuffer-클래스)
   - [Wrapper클래스](./02-ObjectOrientedProgramming/src/ch10/objectClass#7-wrapper클래스--기본-자료형에-대한-클래스)
 
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
 
 - [Ch11. 컬렉션 프레임워크](./02-ObjectOrientedProgramming/src/ch11/collectionFramework#ch11컬렉션-프레임워크-collection-framework)  
 
-<br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
