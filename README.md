@@ -49,7 +49,7 @@
   - [입문](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple#인터페이스-입문)
   - [인터페이스와 다형성](./02-ObjectOrientedProgramming/src/ch09/interface_/practice#인터페이스와-다형성)
   - [디펄트 메서드](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple2#디펄트-메서드)
-  - [다중 상속](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple3#인터페이스-간의-다중 상속)
+  - [다중 상속](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple3#인터페이스-간의-다중-상속)
   - [구현과 상속](./02-ObjectOrientedProgramming/src/ch09/interface_/exmaple4#인터페이스-구현과-클래스-상속-함께-사용하기)
   - [문제 풀기](./02-ObjectOrientedProgramming/src/ch09/interface_/solveProblem#문제-풀기)
 
