@@ -1,6 +1,7 @@
 package ch11.collectionFramework;
 
 public class GenericPrinterTest {
+	
 	public static void main(String[] args) {
 		GenericPrinter<Plastic> plasticPrinter = new GenericPrinter<Plastic>();
 		Plastic plastic = new Plastic();
@@ -12,6 +13,7 @@ public class GenericPrinterTest {
 		powderPrinter.setMaterial(powder);
 		System.out.println(powderPrinter); // 재료는 파우더입니다.
 	}
+	
 }
 
 // 제네릭 타입(매개변수 타입)으로 생성된 3D프린터 객체
@@ -38,6 +40,7 @@ abstract class Material {
 	public abstract String doPringting();
 }
 
+// 추상클래스를 상속받은 구현체 클래스로, T에 적합한 클래스를 설계
 class Plastic extends Material {
 	public String toString() {
 		return "재료는 플라스틱입니다.";
@@ -49,6 +52,7 @@ class Plastic extends Material {
 	};
 }
 
+// 추상클래스를 상속받은 구현체 클래스로, T에 적합한 클래스를 설계
 class Powder extends Material {
 	public String toString() {
 		return "재료는 파우더입니다.";
