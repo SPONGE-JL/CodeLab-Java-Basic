@@ -57,9 +57,9 @@ JDK에서 제공하는 이 자료구조를 통해서 더 빠르고 안전한 프
 
 > **Map** : 키-값(key-value)쌍의 자료형태를 취하고, *key의 중복 불허*  
 > hash() 메소드를 이용하여  키를 저장하므로 탐색(검색)에 효율적인 자료구조  
-> **[HashMap](./hashmap/MemberHashMapTest.java#L11)**: 키와 값을 쌍으로 저장하는 자료구조  
-> **[TreeMap](./treemap/MemberTreeMapTest.java#L11)**: 키를 기준으로 정렬되는 Map 클래스  
-> **HashTable**: 동기화(synchronized)를 제공  <- Properties  
+> > **[HashMap](./hashmap/MemberHashMapTest.java#L11)**: 키와 값을 쌍으로 저장하는 자료구조  
+> > **[TreeMap](./treemap/MemberTreeMapTest.java#L11)**: 키를 기준으로 정렬되는 Map 클래스  
+> > **HashTable**: 동기화(synchronized)를 제공  <- Properties  
 
 ### etc.
 
