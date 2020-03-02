@@ -30,43 +30,44 @@ JDK에서 제공하는 이 자료구조를 통해서 더 빠르고 안전한 프
 
 ### Collection Interface
 
-> 하나의 객체를 관리하기 위해 선언된 인터페이스로 필요한 기본 메서드가 선언되어 있음  
-> **Collection**  
-> > **List** : 순서가 있는 자료 관리, 중복 허용  
-> > - capacity(용량): 자료구조의 최대 적재 가능한 데이터 양
-> > - size(크기): 자료구조에 실재 적재된 데이터 양
-> > > **ArrayList**  : Array를 이용하여 구현되며, 확장과 탐색에 최적화된 자료구조  
-> > > **Vector** : 멀티스레드에서 동기화(synchronized) 지원  
-> > > **LinkedList** [예제](./list/LinkedListTest.java#L9) : 노드와 다음 노드의 연결을 이용하여, 수정에 최적화된 자료구조  
-> > **Set** : 순서가 없는 자료관리, *중복 불허*  
-> > - 순서가 없으므로 get(i) 메서드가 제공되지 않음  
-> > - 모든 콜렉션이 가지는 [iterator 객체를 이용한 순회](./set/HashSetTest.java#L20)  
-> > > [HashSet](./set/HashSetTest.java#L10)  
-> > > - equals() 및 hashCode()를 구현하여 중복체크 구현
-> > > - [사용자  데이터를 중복없이 저장하는 **해쉬셋** 예제](./set/MemberHashSetTest.java#L75)
-> > > TreeSet : 중복을 허용하지 않으면서 [오름차순](./treeset/TreeSetTest.java#L10)이나 [내림차순](./treeset/TreeSetTest2.java#L21)으로 객체를 정렬하는 자료형 (이진 검색 트리로 구현)  
-> > > - [사용자 데이터를 중복없이 저장하는 **트리셋** 예제](./treeset/MemberHashSetTest.java#L75)
-> > > - Comparable 인터페이스로 객체 비교할때 구현해야하는 [compareTo() 메소드](./common/Member.java#L58)
-> > > - Comparator 인터페이스로 객체 비교할떄 구현해야하는 [compare() 메소드](./common/Member.java#L64)
+하나의 객체를 관리하기 위해 선언된 인터페이스로 필요한 기본 메서드가 선언되어 있음  
+> **List** : 순서가 있는 자료 관리, 중복 허용  
+> - capacity(용량): 자료구조의 최대 적재 가능한 데이터 양
+> - size(크기): 자료구조에 실재 적재된 데이터 양
+> > **Vector** : 멀티스레드에서 동기화(synchronized) 지원  
+> > **ArrayList**  : Array를 이용하여 구현되며, 확장과 탐색에 최적화된 자료구조  
+> > **LinkedList** [예제](./list/LinkedListTest.java#L9) : 노드와 다음 노드의 연결을 이용하여, 수정에 최적화된 자료구조  
+
+> **Set** : 순서가 없는 자료관리, *중복 불허*  
+> - 순서가 없으므로 get(i) 메서드가 제공되지 않음  
+> - 모든 콜렉션이 가지는 [iterator 객체를 이용한 순회](./set/HashSetTest.java#L20)  
+> > **[HashSet](./set/HashSetTest.java#L10)**  
+> > - equals() 및 hashCode()를 구현하여 중복체크 구현
+> > - [사용자  데이터를 중복없이 저장하는 **해쉬셋** 예제](./set/MemberHashSetTest.java#L75)
+> > **TreeSet** : 중복을 허용하지 않으면서 [오름차순](./treeset/TreeSetTest.java#L10)이나 [내림차순](./treeset/TreeSetTest2.java#L21)으로 객체를 정렬하는 자료형 (이진 검색 트리로 구현)  
+> > - Comparable 인터페이스로 객체 비교할때 구현해야하는 [compareTo() 메소드](./common/Member.java#L58)
+> > - Comparator 인터페이스로 객체 비교할떄 구현해야하는 [compare() 메소드](./common/Member.java#L64)
+> > - [사용자 데이터를 중복없이 저장하는 **트리셋** 예제](./treeset/MemberHashSetTest.java#L75)
 
 <div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
 
 ### Map Interface
 
-> 키-값의 형태로 쌍을 이루는 객체를 관리하는데 필요한 기본 메서드가 선언되어 있음
-> **Map** : 키-값(key-value) 쌍으로 되어 있고, *key의 중복 불허*  
-> hash() 메소드를 이용하여  키를 저장하고 탐색(검색)에 효율적인 자료구조  
-> > [HashMap](./hashmap/MemberHashMapTest.java#L11): 키와 값을 쌍으로 저장하는 자료구조  
-> > [TreeMap](./treemap/MemberTreeMapTest.java#L11): 키를 기준으로 정렬되는 Map 클래스  
-> > HashTable: 동기화(synchronized)를 제공  <- Properties  
+키-값의 형태로 쌍을 이루는 객체를 관리하는데 필요한 기본 메서드가 선언되어 있음  
+
+> **Map** : 키-값(key-value)쌍의 자료형태를 취하고, *key의 중복 불허*  
+> hash() 메소드를 이용하여  키를 저장하므로 탐색(검색)에 효율적인 자료구조  
+> **[HashMap](./hashmap/MemberHashMapTest.java#L11)**: 키와 값을 쌍으로 저장하는 자료구조  
+> **[TreeMap](./treemap/MemberTreeMapTest.java#L11)**: 키를 기준으로 정렬되는 Map 클래스  
+> **HashTable**: 동기화(synchronized)를 제공  <- Properties  
 
 ### etc.
 
 - **[Stack](./list/StackTest.java)** : ArrayList로 구현해보는 Stack (Last In First Out)  
 - **[Queue](./list/QueueTest.java)** : ArrayList로 구현해보는 Queue (First In First OUt)  
-  > **_Tip!_** [Queue 및  LinkedList는 Queue 인터페이스로 구현되어 있습니다.](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html)
-- Tree : Java에서 객체 정렬에 사용되는 클래스
-- Binary Tree : Node의 하위 Node가 둘 이하로 정렬된 자료구조
-- Binary Search Tree : 기준에 따라 좌/우 2가지로 정렬하여 검색되는 자료구조
+  `**_Tip!_**` [Queue 및  LinkedList는 Queue 인터페이스로 구현되어 있습니다.](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html)
+- **Tree** : Java에서 객체 정렬에 사용되는 클래스
+- **Binary Tree** : Node의 하위 Node가 둘 이하로 정렬된 자료구조
+- **Binary Search Tree** : 기준에 따라 좌/우 2가지로 정렬하여 검색되는 자료구조
 
 <br/><div align="right"><b><a href="#open_book">↥ back to top</a></b></div><br/>
