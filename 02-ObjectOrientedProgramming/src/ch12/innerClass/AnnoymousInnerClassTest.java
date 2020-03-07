@@ -1,6 +1,6 @@
 package ch12.innerClass;
 
-public class AnnoymousInnerClassTest2 {
+public class AnnoymousInnerClassTest {
 	public static void main(String[] args) {
 		Outer2 outer2 = new Outer2();
 		Runnable runnable = outer2.getRunnable(10);
