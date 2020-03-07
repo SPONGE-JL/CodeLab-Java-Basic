@@ -65,7 +65,6 @@ str -> str.length();
 
 <div align="right"><b><a href= "#open_book">↥ back to top</a></b></div>
 
-
 ## 스트림(Stream)
 
 자료의 대상과 관계없이 동일한 연산을 수행할 수 있는 기능(자료의 추상화)  
@@ -128,5 +127,31 @@ Arrays.stream(arr).reduce(0, (a, b) -> a + b);
 - [숫자 스트림 reduce() 예제](./stream/IntArrayStreamTest.java#L17)
 - [문자 스트림 reduce() 예제 - 람다식 구현](./stream/ReduceTest.java#L16)
 - [문자 스트림 reduce() 예제 - 메소드 구현](./stream/ReduceTest.java#L24)
+
+<div align="right"><b><a href= "#open_book">↥ back to top</a></b></div>
+
+## 연습 문제
+
+```text
+
+패키지 여행을 떠나는 고객들이 있습니다. 여행비용이 15세 이상은 100만원, 그 미만은 50만원이 책정되었습니다.
+다음과 같이 고객 3명이 여행을 간다고 했을 때, 비용과 고객 명단에 대한 출력을 스트림을 활용하여 만들어 보세요.
+
+<아래는 고객리스트입니다.>
+```
+|:---:|:---:|:---:|:---|
+
+|고객번호 |고객이름 |고객나이 |여행비용  |
+|  1  | Kim | 33  |100 |
+|  2  | Min | 25  |100 |
+|  3  | Hyo | 12  |50  |
+|  4  |Sung | 27  |100 |
+|  5  | Goo | 14  |50  |
+|  6  |Hwang| 45  |100 |
+
+<기능 요구사항>
+
+1. [스트림을 활용하여 총 여행비용을 계산하기](./practice/Calcurator.java#L29)
+2. [스트림을 활용하여 20세 이상인 사람의 이름을 오름차순으로 정렬된 고객명단을 출력하기](./practice/Calcurator.java#L35)
 
 <br/><div align="right"><b><a href= "#open_book">↥ back to top</a></b></div><br/>
