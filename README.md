@@ -80,3 +80,11 @@
   - [etc. Stack,Queue,Tree ..](./02-ObjectOrientedProgramming/src/ch11/collectionFramework#etc)
 
 <div align="right"><b><a href="#open_book">↥ back to top</a></b></div>
+
+- [Ch12. 내부클래스/람다식/스트림](./02-ObjectOrientedProgramming/src/ch12#ch12내부-클래스-람다식-스트림)  
+	- [내부클래스](./02-ObjectOrientedProgramming/src/ch12#내부클래스)  
+	- [람다식](./02-ObjectOrientedProgramming/src/ch12#람다식)  
+	- [스트림](./02-ObjectOrientedProgramming/src/ch12#스트림stream)  
+	- [스트림 연습문제](./02-ObjectOrientedProgramming/src/ch12#연습-문제)  
+  
+<div align="right"><b><a href="#open_book">↥ back to top</a></b></div>

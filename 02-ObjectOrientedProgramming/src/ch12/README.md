@@ -1,6 +1,6 @@
 ### :open_book:
 
-[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](../..#2-객체-지향-프로그래밍)
+[Go Home](https://github.com/devJRL/CodeLab-JAVA-Basic#codelab-java-basic) / [Go Up](..#2-객체-지향-프로그래밍)
 
 # Ch12.내부 클래스, 람다식, 스트림
 
@@ -15,7 +15,7 @@
 | [인스턴스 내부 클래스](./innerClass/InnerTest.java#L46) | 외부 클래스 멤버변수와 동일 | 외부 인스턴스 변수 <br> 외부 전역변수 | 외부 클래스를 먼저 만든 후 <br> 내부클래스 생성|
 | [정적 내부 클래스](./innerClass/InnerTest.java#L64) | 외부 클래스 멤버변수와 동일 | 외부 전역 변수 | 외부 클래스와 무관하게 생성 |
 | [지역 내부 클래스](./innerClass/LocalInnerClassTest.java#L25) | 메서드 내부에 구현 | 외부 인스턴스 변수<br> 외부 전역 변수 | 메서드를 호출할 때 생성 |
-| [**익명 내부 클래스**](./innerClass/AnnoymousInnerClassTest.java#L24) | 메서드 내부에 구현 <br> 변수에 대입하여 직접 구현 | 외부 인스턴스 변수 <br> 외부 전역 변수 | 메서드를 호출할 때 생성되거나, 인터페이스 타입 변수에 대입할 때 new 예약어를 사용하여 생성 |
+| [**익명 내부 클래스**](./innerClass/AnnoymousInnerClassTest.java#L24) | 메서드 내부에 구현 <br> 변수에 대입하여 직접 구현 | 외부 인스턴스 변수 <br> 외부 전역 변수 | 메서드를 호출할 때 생성되거나,<br>인터페이스 타입 변수에 대입할 때<br>new 예약어를 사용하여 생성 |
 
 <div align="right"><b><a href= "#open_book">↥ back to top</a></b></div>
 
@@ -139,9 +139,9 @@ Arrays.stream(arr).reduce(0, (a, b) -> a + b);
 
 <아래는 고객리스트입니다.>
 ```
-|:---:|:---:|:---:|:---|
 
 |고객번호 |고객이름 |고객나이 |여행비용  |
+|:---:|:---:|:---:|:---|
 |  1  | Kim | 33  |100 |
 |  2  | Min | 25  |100 |
 |  3  | Hyo | 12  |50  |
